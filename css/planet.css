@@ -1,0 +1,25 @@
+html, body {
+    margin: 0;
+    border: 0;
+    width: 100%;
+}
+
+img {
+    width: 100%;
+}
+
+td.img{
+    display: inline;
+}
+
+.title{
+    font-size: 40px;
+    text-align: center;
+    width:960px;
+
+    font-family: "Palatino Linotype";
+    font-style: italic;
+    font-variant: normal;
+    font-weight: 500;
+    line-height: 23px;
+}
